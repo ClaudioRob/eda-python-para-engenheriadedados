@@ -1,2 +1,2 @@
-# eda-python-para-engenheriadedados
+# Python Para Engenharia de Dados
 Curso de Python da Engenharia de Dados Academy
